@@ -9,6 +9,8 @@ public class Calculator {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
+//Ввод переменных
         System.out.println("Введите первое число: ");
         float first = scanner.nextFloat();
         System.out.println("Введите второе число: ");
